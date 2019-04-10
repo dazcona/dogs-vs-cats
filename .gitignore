@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+env/*
+.vscode/
+src/*.pyc
+src/*.log
+src/__pycache__/
+data/
+config.py
+models/
+.DS_Store
+src/
