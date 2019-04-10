@@ -2,11 +2,7 @@
 
 Classification model to distinguishing images of dogs vs cats.
 
-Dog:
-![](docs/dog.jpg)
-
-Cat:
-![](docs/cat.jpg)
+![alt-text-1](docs/dog.jpg) ![alt-text-2](docs/cat.jpg)
 
 ## Dataset
 
